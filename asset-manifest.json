@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pairwisetooltips/static/css/main.6f9de611.css",
+    "main.js": "/pairwisetooltips/static/js/main.597d21b2.js",
+    "static/media/logo.svg": "/pairwisetooltips/static/media/logo.0d889039ee22af9441bc4c07dde0011f.svg",
+    "static/media/zoomIn.svg": "/pairwisetooltips/static/media/zoomIn.80fe9a9dcc3b88dde600e68554a34841.svg",
+    "static/media/zoomOut.svg": "/pairwisetooltips/static/media/zoomOut.d78afe170e8aff63b31809ad481262f9.svg",
+    "index.html": "/pairwisetooltips/index.html",
+    "main.6f9de611.css.map": "/pairwisetooltips/static/css/main.6f9de611.css.map",
+    "main.597d21b2.js.map": "/pairwisetooltips/static/js/main.597d21b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9de611.css",
+    "static/js/main.597d21b2.js"
+  ]
+}
